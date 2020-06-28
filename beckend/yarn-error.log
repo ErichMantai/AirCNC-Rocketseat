@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Windows\System32\wbem\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Php;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\Public\Documents\Embarcadero\Studio\19.0\Bpl;C:\Users\Mantai\AppData\Local\Microsoft\WindowsApps;C:\Mtl-Multisync\Rewriters\_msrgallwinner.zip\;C:\Users\Mantai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Mantai\AppData\Local\Yarn\bin;C:\Users\Mantai\AppData\Roaming\Composer\vendor\bin;C:\Users\Mantai\AppData\Roaming\npm
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  10.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:125657:13)
+      at Interface.emit (events.js:198:13)
+      at Interface._ttyWrite (readline.js:801:16)
+      at ReadStream.onkeypress (readline.js:184:10)
+      at ReadStream.emit (events.js:198:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1075:36)
+      at ReadStream.emit (events.js:198:13)
+      at addChunk (_stream_readable.js:288:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
